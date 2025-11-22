@@ -1,0 +1,1 @@
+https://purpleschool.ru/knowledge-base/golang/
