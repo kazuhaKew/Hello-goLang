@@ -7,6 +7,7 @@
 - Arrays, slices, maps, structs
 - Pointers & value/reference semantics
 
+
 **2. Core Concepts**
 - Packages & module management (`go mod`)
 - Error handling idioms (`error`, wrapping, custom errors)
